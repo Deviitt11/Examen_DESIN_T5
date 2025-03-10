@@ -14,7 +14,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.dcb.interfaz.InterfazExamen</mainClass>
+							<mainClass>interfaz.InterfazExamen</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
